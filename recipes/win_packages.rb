@@ -1,5 +1,5 @@
 chocolatey_package 'ruby' do
-  action :Install
+  action :install
 end
 
 chocolatey_package 'golang' do
