@@ -39,4 +39,4 @@ powershell_script 'Install Chocolatey' do
   not_if { chocolatey_installed? && (node['chocolatey']['upgrade'] == false) }
 end
 
-include_recipe '::win_features'
+include_recipe '::win_packages'
