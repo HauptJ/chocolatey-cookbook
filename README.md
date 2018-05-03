@@ -4,6 +4,11 @@
 
 Install Chocolatey with the default recipe and manage packages with a handy resource/provider.
 
+## Windows Build Status
+
+- Master: [![Build status](https://ci.appveyor.com/api/projects/status/ujeaayy9tt1myt66?svg=true)](https://ci.appveyor.com/project/HauptJ/chocolatey-cookbook)
+- Development: [![Build status](https://ci.appveyor.com/api/projects/status/ujeaayy9tt1myt66/branch/pipeline?svg=true)](https://ci.appveyor.com/project/HauptJ/chocolatey-cookbook/branch/pipeline)
+
 ## Requirements
 
 ### Platform
